@@ -1,4 +1,33 @@
-on (*)  
+# 🎯 Math Quiz Game in C++ 🧮
+
+An interactive console-based math quiz game built in C++ that challenges players with randomly generated arithmetic questions. Players can select difficulty levels and operation types, and the game provides real-time feedback with color-coded results. 🎨✅❌
+
+## 🚀 Features
+
+✅ Play up to **100 questions** per round  
+✅ Choose from **Easy, Medium, Hard, or Mixed** difficulty levels  
+✅ Supports **Addition (+), Subtraction (-), Multiplication (*), and Division (/)**  
+✅ **Randomized questions** for a unique experience each time  
+✅ **Color-coded feedback**:  
+   - 🟩 **Green** for correct answers  
+   - 🟥 **Red + Sound** for incorrect answers  
+   - 🟨 **Yellow** for a draw  
+✅ **Final score summary**  
+✅ Option to **play again**  
+
+## 📜 How to Play
+
+1️⃣ Run the program  
+2️⃣ Choose the **number of questions** (1 to 100)  
+3️⃣ Select a **difficulty level**:  
+   - `1` for Easy  
+   - `2` for Medium  
+   - `3` for Hard  
+   - `4` for Mixed  
+4️⃣ Pick an **operation type**:  
+   - `1` for Addition (+)  
+   - `2` for Subtraction (-)  
+   - `3` for Multiplication (*)  
    - `4` for Division (/)  
    - `5` for Mixed Operations  
 5️⃣ Answer the generated questions  
